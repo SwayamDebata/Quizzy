@@ -1,0 +1,112 @@
+[
+    {
+        "id": "01",
+        "question" : "Which was the first living creature to be launched into space?",
+        "options": [
+            "Rabbit",
+            "Dog",
+            "Mouse",
+            "Goat"
+        ],
+        "answer": "Dog"
+    },
+    {
+        "id": "02",
+        "question" : "Where is the world's largest radio telescope located?",
+        "options": [
+            "Brazil",
+            "Chile",
+            "Puerto Rico",
+            "Mexico"
+        ],
+        "answer": "Puerto Rico"
+    },
+    {
+        "id": "03",
+        "question" : "From which language did the word galaxy originate?",
+        "options": [
+            "Greek",
+            "Latin",
+            "Russian",
+            "English"
+        ],
+        "answer": "Greek"
+    },
+    {
+        "id": "04",
+        "question" : "Which planet has the most explosive moon in the solar system?",
+        "options": [
+            "Mars",
+            "Earth",
+            "Jupiter",
+            "Venus"
+        ],
+        "answer": "Jupiter"
+    },
+    {
+        "id": "05",
+        "question" : "Which planet has a core of iron, bigger than that of the moon?",
+        "options": [
+            "Pluto",
+            "Earth",
+            "Mercury",
+            "Saturn"
+        ],
+        "answer": "Mercury"
+    },
+    {
+        "id": "06",
+        "question" : "What are Asteroids?",
+        "options": [
+            "A big galaxy",
+            "A great comet",
+            "Shooting stars",
+            "Small planets"
+        ],
+        "answer": "Small planets"
+    },
+    {
+        "id": "07",
+        "question" : "What is a meteorite?",
+        "options": [
+            "Galaxy",
+            "Asteroid rock",
+            "Comet",
+            "Star"
+        ],
+        "answer": "Asteroid rock"
+    },
+    {
+        "id": "08",
+        "question" : "Can you guess the distance of the Sun from the Earth?",
+        "options": [
+            "150 million km",
+            "100 million km",
+            "50 million km",
+            "25 million km"
+        ],
+        "answer": "150 million km"
+    },
+    {
+        "id": "09",
+        "question" : "Which is the only planet that rolls round the sun on its side, instead of spinning like a top?",
+        "options": [
+            "Neptune",
+            "Uranus",
+            "Jupiter",
+            "Pluto"
+        ],
+        "answer": "Uranus"
+    },
+    {
+        "id": "10",
+        "question" : "How many stars does the Milky Way galaxy contain?",
+        "options": [
+            "1000 million",
+            "10,000 million",
+            "100,000 million",
+            "1,000,000 million"
+        ],
+        "answer": "100,000 million"
+    }
+]
