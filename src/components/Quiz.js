@@ -16,7 +16,7 @@ const Quiz = ({ showQuiz, question, quizs, checkAnswer, correctAnswer, selectedA
         }, 1000);
 
         return () => clearTimeout(timer);
-    }, [secondsLeft]);
+    }, [secondsLeft, timer]);
 
     useEffect(() => {
         setSecondsLeft(60);
